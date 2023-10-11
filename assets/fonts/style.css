@@ -1,0 +1,25 @@
+@font-face {
+   font-family: 'Gilroy-ExtraBold';
+   font-display: swap;
+   src: url('Gilroy-ExtraBold/font.ttf');
+}
+@font-face {
+   font-family: 'Gilroy-Black';
+   font-display: swap;
+   src: url('Gilroy-Black/font.ttf');
+}
+@font-face {
+   font-family: 'Gilroy-Medium';
+   font-display: swap;
+   src: url('Gilroy-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'Gilroy-Regular';
+   font-display: swap;
+   src: url('Gilroy-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Gilroy-UltraLight';
+   font-display: swap;
+   src: url('Gilroy-UltraLight/font.ttf');
+}
